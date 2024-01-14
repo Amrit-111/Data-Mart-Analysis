@@ -1,1 +1,1 @@
-# SQL-Project-1
+Excited to share my latest project showcasing real-world Data Mart schema case studies implemented in SQL! 🚀 Dive into the world of data modeling, analytics, and database design. Check it out on my GitHub and let's connect on LinkedIn to discuss the fascinating realm of data-driven solutions
